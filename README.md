@@ -16,8 +16,8 @@ Formulario de cadastro Dev
 </head>
 <body>
     <div>
-<h1 id="titulo">Cadastro de Desenvolvedores</h1>
-<p id="subtitulo">Complete a ficha abaixo:</p>
+<id="titulo">Cadastro de Desenvolvedores</h1>
+< id="subtitulo">Complete a ficha abaixo:</p>
 <br>
     </div>
 
