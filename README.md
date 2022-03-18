@@ -28,10 +28,19 @@
             </div>
         </fieldset>
 
+        <fieldset>
+
             <div class="campo">
                 <label for="email"><strong>Email:</strong></label>
                 <input type="email" name="email" id="email" required>
             </div>
+
+            <div class="date">
+                <label for="date"><strong>Data de Nascimento:</strong></label>
+                <input type="date" name="date" id="date" required>
+            </div>
+
+        </fieldset>
 
             <div class="campo">
                 <label><strong>De qual lado da aplicação você desenvolve?</strong></label>
@@ -50,6 +59,7 @@
                 <label for="senioridade"><strong>Senioridade</strong></label>
                 <select id="senioridade" required>
                     <option selected disabled value="">Selecione</option>
+                    <option>Estagiário</option>
                     <option>Júnior</option>
                     <option>Pleno</option>
                     <option>Sênior</option>
